@@ -125,6 +125,9 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 @syncfusion/ej2-angular-base
 SEE LICENSE IN license
 
+@syncfusion/ej2-angular-calendars
+SEE LICENSE IN license
+
 @syncfusion/ej2-angular-dropdowns
 SEE LICENSE IN license
 
